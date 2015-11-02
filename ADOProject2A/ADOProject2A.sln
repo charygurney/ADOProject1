@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOProject2A", "ADOProject2A\ADOProject2A.csproj", "{2CEF0094-8B3A-42B7-802C-D47C90BD82A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.Data", "ADO.Data\ADO.Data.csproj", "{24FC4F76-BE7A-42F9-BBA5-C7C70F9D3876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEF0094-8B3A-42B7-802C-D47C90BD82A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEF0094-8B3A-42B7-802C-D47C90BD82A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEF0094-8B3A-42B7-802C-D47C90BD82A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEF0094-8B3A-42B7-802C-D47C90BD82A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FC4F76-BE7A-42F9-BBA5-C7C70F9D3876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FC4F76-BE7A-42F9-BBA5-C7C70F9D3876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FC4F76-BE7A-42F9-BBA5-C7C70F9D3876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FC4F76-BE7A-42F9-BBA5-C7C70F9D3876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
